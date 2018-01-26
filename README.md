@@ -5,4 +5,4 @@ screen, while in iOS 9 you just show them a notification.
 
 Provided is an example
 
-![](https://i.imgur.com/JIzEaL7.gifv)
+<blockquote class="imgur-embed-pub" lang="en" data-id="JIzEaL7"><a href="//imgur.com/JIzEaL7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
