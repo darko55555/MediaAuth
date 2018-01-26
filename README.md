@@ -5,4 +5,4 @@ screen, while in iOS 9 you just show them a notification.
 
 Provided is an example
 
-![](http://i.imgur.com/OUkLi.gif)
+![](https://i.imgur.com/JIzEaL7.gifv)
